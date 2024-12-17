@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 
-// Définir un type pour les programmes (si tu veux utiliser TypeScript)
 type Program = {
   id: number;
   title: string;
